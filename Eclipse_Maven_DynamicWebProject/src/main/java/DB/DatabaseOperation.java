@@ -7,10 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-
-import MyPkg.MyDb;
-
-
 public class DatabaseOperation {
 	
 	MyDB db = new MyDB();
